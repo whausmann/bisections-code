@@ -1,0 +1,9 @@
+Wall-clock timings, whole-second resolution (0 s means less than about 1 s).
+[time] Compile bridge constructor: 1 s | total so far: 1 s
+[time] Compile bisection checker: 0 s | total so far: 1 s
+[time] Small-case smoke test: 1 s | total so far: 2 s
+[time] Prepare all bases and deduplicated pieces (all required orders): 55 s | total so far: 57 s
+[time] Construct and check candidates (one at a time): 21 s | total so far: 78 s
+[time] Deduplicate only failing graphs: 0 s | total so far: 78 s
+[time] Write unique failure report: 0 s | total so far: 78 s
+[time] TOTAL wall-clock runtime: 78 s

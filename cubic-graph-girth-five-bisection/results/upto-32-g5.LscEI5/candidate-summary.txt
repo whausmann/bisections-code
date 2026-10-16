@@ -1,0 +1,5 @@
+candidate constructions checked: 444609
+sufficient records: 444609
+external but insufficient records: 0
+records with no external bisection: 0
+elapsed seconds: 0.963483

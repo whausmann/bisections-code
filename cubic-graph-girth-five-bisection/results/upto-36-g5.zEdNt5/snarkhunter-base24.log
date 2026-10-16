@@ -1,0 +1,5 @@
+64 bit mode
+Info: it is recommended to use the 32 bit version for generating graphs with order <= 32
+/Users/willhausmann/Documents/bridge-search-mac/bin/snarkhunter-64 24 4 s o g 
+All done, 23780814 graphs generated with 24 vertices.
+CPU time: 41.1 seconds.

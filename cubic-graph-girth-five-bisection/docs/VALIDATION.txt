@@ -1,0 +1,2 @@
+PASS: 280 connected simple cubic graphs (orders 4–16), independent exhaustive balanced-subset comparison; 93 sufficient, 187 insufficient.
+The recorded 36-vertex run was not repeated.

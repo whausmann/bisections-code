@@ -1,0 +1,5 @@
+input graph records checked: 1
+sufficient records: 0
+external but insufficient records: 1
+records with no external bisection: 0
+elapsed seconds: 0.000125

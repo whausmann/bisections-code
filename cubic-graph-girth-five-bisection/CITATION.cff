@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite the tagged release of this software when using the code or computational results."
+title: "Cubic Graph Girth Five Bisection"
+type: software
+authors:
+  - family-names: Hausmann
+    given-names: Will
+license: MIT
+abstract: "Exhaustive search for external bisections in connected cubic graphs with a bridge and prescribed minimum girth."
+repository-code: "https://github.com/whausmann/bisections-code"
+url: "https://github.com/whausmann/bisections-code/tree/main/cubic-graph-girth-five-bisection"
